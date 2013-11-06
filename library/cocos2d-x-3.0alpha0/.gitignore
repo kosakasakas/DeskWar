@@ -10,7 +10,7 @@ Thumbs.db
 *.vspscc
 *_i.c
 *.i
-*.icf
+# *.icf
 *_p.c
 *.ncb
 *.suo

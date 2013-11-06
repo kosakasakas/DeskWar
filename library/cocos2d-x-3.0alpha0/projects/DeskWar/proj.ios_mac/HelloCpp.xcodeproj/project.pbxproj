@@ -79,10 +79,6 @@
 		F85B9FF4182511D6003659C4 /* Player.png in Resources */ = {isa = PBXBuildFile; fileRef = F85B9FE3182511D6003659C4 /* Player.png */; };
 		F85B9FF5182511D6003659C4 /* Projectile.png in Resources */ = {isa = PBXBuildFile; fileRef = F85B9FE4182511D6003659C4 /* Projectile.png */; };
 		F85B9FF6182511D6003659C4 /* Target.png in Resources */ = {isa = PBXBuildFile; fileRef = F85B9FE5182511D6003659C4 /* Target.png */; };
-		F85B9FF9182516A3003659C4 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = F85B9FF7182516A3003659C4 /* background.png */; };
-		F85B9FFA182516A3003659C4 /* fireball.png in Resources */ = {isa = PBXBuildFile; fileRef = F85B9FF8182516A3003659C4 /* fireball.png */; };
-		F85B9FFD182516B2003659C4 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = F85B9FFB182516B2003659C4 /* background.png */; };
-		F85B9FFE182516B2003659C4 /* fireball.png in Resources */ = {isa = PBXBuildFile; fileRef = F85B9FFC182516B2003659C4 /* fireball.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -324,10 +320,6 @@
 		F85B9FE3182511D6003659C4 /* Player.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Player.png; sourceTree = "<group>"; };
 		F85B9FE4182511D6003659C4 /* Projectile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Projectile.png; sourceTree = "<group>"; };
 		F85B9FE5182511D6003659C4 /* Target.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Target.png; sourceTree = "<group>"; };
-		F85B9FF7182516A3003659C4 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = "../../../../../../../../../Downloads/simple-lane-strategy/public/images/background.png"; sourceTree = "<group>"; };
-		F85B9FF8182516A3003659C4 /* fireball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fireball.png; path = "../../../../../../../../../Downloads/simple-lane-strategy/public/images/fireball.png"; sourceTree = "<group>"; };
-		F85B9FFB182516B2003659C4 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = "../../../../../../../../../Downloads/simple-lane-strategy/public/images/background.png"; sourceTree = "<group>"; };
-		F85B9FFC182516B2003659C4 /* fireball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fireball.png; path = "../../../../../../../../../Downloads/simple-lane-strategy/public/images/fireball.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -550,8 +542,6 @@
 				F85B9FDB182511D6003659C4 /* Player.png */,
 				F85B9FDC182511D6003659C4 /* Projectile.png */,
 				F85B9FDD182511D6003659C4 /* Target.png */,
-				F85B9FF7182516A3003659C4 /* background.png */,
-				F85B9FF8182516A3003659C4 /* fireball.png */,
 			);
 			path = hd;
 			sourceTree = "<group>";
@@ -565,8 +555,6 @@
 				F85B9FE3182511D6003659C4 /* Player.png */,
 				F85B9FE4182511D6003659C4 /* Projectile.png */,
 				F85B9FE5182511D6003659C4 /* Target.png */,
-				F85B9FFB182516B2003659C4 /* background.png */,
-				F85B9FFC182516B2003659C4 /* fireball.png */,
 			);
 			path = sd;
 			sourceTree = "<group>";
@@ -767,7 +755,6 @@
 				5087E78117EB970100C73F5D /* Icon-120.png in Resources */,
 				F85B9FED182511D6003659C4 /* Player.png in Resources */,
 				5087E78617EB970100C73F5D /* Icon-76.png in Resources */,
-				F85B9FFE182516B2003659C4 /* fireball.png in Resources */,
 				5087E77F17EB970100C73F5D /* Default@2x.png in Resources */,
 				50EF629917ECD46A001EB2F8 /* Icon-100.png in Resources */,
 				5087E78317EB970100C73F5D /* Icon-152.png in Resources */,
@@ -776,7 +763,6 @@
 				F85B9FE9182511D6003659C4 /* development.icf in Resources */,
 				F85B9FEC182511D6003659C4 /* CloseSelected.png in Resources */,
 				F85B9FEF182511D6003659C4 /* Target.png in Resources */,
-				F85B9FFA182516A3003659C4 /* fireball.png in Resources */,
 				F85B9FF1182511D6003659C4 /* app.icf in Resources */,
 				5087E77D17EB970100C73F5D /* Default-568h@2x.png in Resources */,
 				5087E78517EB970100C73F5D /* Icon-72.png in Resources */,
@@ -784,12 +770,10 @@
 				5087E78017EB970100C73F5D /* Icon-114.png in Resources */,
 				F85B9FF6182511D6003659C4 /* Target.png in Resources */,
 				F85B9FF3182511D6003659C4 /* CloseSelected.png in Resources */,
-				F85B9FF9182516A3003659C4 /* background.png in Resources */,
 				F85B9FF5182511D6003659C4 /* Projectile.png in Resources */,
 				F85B9FE6182511D6003659C4 /* app.config.txt in Resources */,
 				50EF62A217ECD613001EB2F8 /* Icon-29.png in Resources */,
 				F85B9FEB182511D6003659C4 /* CloseNormal.png in Resources */,
-				F85B9FFD182516B2003659C4 /* background.png in Resources */,
 				F85B9FE8182511D6003659C4 /* background-music-aac.wav in Resources */,
 				50EF629617ECD46A001EB2F8 /* Icon-40.png in Resources */,
 				F85B9FF4182511D6003659C4 /* Player.png in Resources */,
